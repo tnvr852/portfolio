@@ -1,0 +1,19 @@
+h1{
+    font size: 70px;
+ 
+}
+body{
+    font-family: 'Pacifico', cursive;
+}
+.highlight{
+    color: orange;
+}
+.first-half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.first-half img{
+    width: 70%;
+}
