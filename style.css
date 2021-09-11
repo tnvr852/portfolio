@@ -4,6 +4,7 @@ h1{
 }
 body{
     font-family: 'Pacifico', cursive;
+    margin: 0;
 }
 .highlight{
     color: orange;
@@ -16,4 +17,11 @@ body{
 }
 .first-half img{
     width: 70%;
+}
+.top-banner{
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
 }
